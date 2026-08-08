@@ -57,3 +57,29 @@ Este projeto foi desenvolvido como parte dos meus estudos em Excel e Análise de
 A partir dele, pude praticar o processo de trabalhar com uma base de dados desde os dados brutos até a criação de indicadores e análises que facilitam a interpretação dos resultados.
 
 Este projeto representa uma etapa importante do meu aprendizado e faz parte da construção do meu portfólio na área de Análise de Dados.
+
+# 📊 Visualização dos KPIs
+
+# 🏙️ **Análise por Cidade**
+
+![KPI Cidades](imagens/kpi_cidades.png)
+
+Análise do desempenho das vendas em cada cidade, destacando o total geral e as cidades com maior e menor volume de vendas.
+
+# 📦 **Análise de Produtos**
+
+![KPI Produtos](imagens/kpi_produtos.png)
+
+Visualização dos produtos com melhor desempenho e dos principais indicadores relacionados às vendas.
+
+# 👥 **Análise de Vendedores**
+
+![KPI Vendedores](imagens/kpi_vendedores.png)
+
+Comparação do desempenho dos vendedores com base nos resultados obtidos.
+
+# 🏷️ **Análise por Categoria**
+
+![KPI Categorias](imagens/kpi_categorias.png)
+
+Análise das vendas agrupadas por categoria, facilitando a comparação entre os diferentes grupos de produtos.
