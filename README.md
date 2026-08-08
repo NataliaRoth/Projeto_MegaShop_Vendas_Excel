@@ -63,24 +63,24 @@ Este projeto representa uma etapa importante do meu aprendizado e faz parte da c
 
 # **Análise por Cidade**
 
-![KPI Cidades](imagens/kpi_cidades.png)
+![KPI Cidades](Imagens/kpi_cidades.png)
 
 Análise do desempenho das vendas em cada cidade, destacando o total geral e as cidades com maior e menor volume de vendas.
 
 # **Análise de Produtos**
 
-![KPI Produtos](imagens/kpi_produtos.png)
+![KPI Produtos](Imagens/kpi_produtos.png)
 
 Visualização dos produtos com melhor desempenho e dos principais indicadores relacionados às vendas.
 
 # **Análise de Vendedores**
 
-![KPI Vendedores](imagens/kpi_vendedores.png)
+![KPI Vendedores](Imagens/kpi_vendedores.png)
 
 Comparação do desempenho dos vendedores com base nos resultados obtidos.
 
 # **Análise por Categoria**
 
-![KPI Categorias](imagens/kpi_categorias.png)
+![KPI Categorias](Imagens/kpi_categorias.png)
 
 Análise das vendas agrupadas por categoria, facilitando a comparação entre os diferentes grupos de produtos.
