@@ -7,7 +7,7 @@ Este é um projeto que desenvolvi para colocar em prática meus conhecimentos em
 
 A ideia foi passar por diferentes etapas, desde os dados brutos até o tratamento e organização das informações, criando também alguns indicadores para facilitar a análise dos resultados.
 
-# Ferramentas utilizadas
+# Ferramentas
 
 * Microsoft Excel
 * Tabelas dinâmicas
